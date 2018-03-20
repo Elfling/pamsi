@@ -1,0 +1,5 @@
+domain	ip	lat	long
+www.compsci.buu.ac.th	202.28.77.252	13.34	100.975
+www.cgisecurity.com	199.125.85.84	42.861389	-71.625278
+wigwam.sztaki.hu	195.70.57.5	47.471944	19.050278
+cs.anu.edu.au	150.203.164.35	-35.2828	149.1314
